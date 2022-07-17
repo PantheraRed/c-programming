@@ -1,3 +1,13 @@
+/**
+ * @file array_of_structures.c
+ * @author PantheraRed
+ * @brief A C program to demonstrate array of structures.
+ * @version 0.1
+ * @date 2022-07-17
+ * 
+ * @copyright Copyright (c) 2022
+ * 
+ */
 #include <stdio.h>
 
 struct student

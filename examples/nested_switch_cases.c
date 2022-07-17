@@ -1,3 +1,13 @@
+/**
+ * @file nested_switch_cases.c
+ * @author PantheraRed
+ * @brief A C program to demonstrate the use of nested switch cases.
+ * @version 0.1
+ * @date 2022-07-17
+ * 
+ * @copyright Copyright (c) 2022
+ * 
+ */
 #include <stdio.h>
 
 int main()

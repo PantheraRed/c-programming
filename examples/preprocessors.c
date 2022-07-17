@@ -1,3 +1,14 @@
+/**
+ * @file preprocessors.c
+ * @author PantheraRed
+ * @brief A C program to demonstrate the use of preprocessors.
+ * @version 0.1
+ * @date 2022-07-17
+ * 
+ * @copyright Copyright (c) 2022
+ * 
+ */
+
 // Includes a header file
 #include <stdio.h>
 
