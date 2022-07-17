@@ -1,3 +1,13 @@
+/**
+ * @file pointers_as_parameters.c
+ * @author PantheraRed
+ * @brief A C program to demonstrate pointers as parameters.
+ * @version 0.1
+ * @date 2022-07-17
+ * 
+ * @copyright Copyright (c) 2022
+ * 
+ */
 #include <stdio.h>
 
 // Pointers as parameters

@@ -1,3 +1,13 @@
+/**
+ * @file array_of_pointers.c
+ * @author PantheraRed
+ * @brief A C program to demonstrate array of pointers.
+ * @version 0.1
+ * @date 2022-07-17
+ * 
+ * @copyright Copyright (c) 2022
+ * 
+ */
 #include <stdio.h>
 
 int main()
