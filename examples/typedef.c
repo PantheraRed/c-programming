@@ -1,5 +1,5 @@
 /**
- * @file typedefs.c
+ * @file typedef.c
  * @author PantheraRed
  * @brief A C program to demonstrate the use of typedef keyword.
  * @version 0.1
